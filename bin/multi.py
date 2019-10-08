@@ -116,8 +116,3 @@ with ProcessPool(max_workers=cpus) as pool:
 
 duration_calc('Process Pool Completed: ',process_pool_start)
 
-
--- Russell Bigley
-Data Scientist
-Cell: (303) 916-8899
-Russell_Bigley@comcast.com
